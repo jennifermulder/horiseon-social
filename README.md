@@ -1,6 +1,6 @@
 # HoriSEOn - Search Engine Optimization
 
-![](Develop/assets/images/horiseonwebpagescreenshot.png)
+![](assets/images/horiseonwebpagescreenshot.png)
 
 ## Purpose
 A website for Horiseon Social Solutions, Inc. that offers information about search engine optimization services and more.
