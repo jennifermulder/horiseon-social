@@ -1,6 +1,6 @@
 # horiseon-social
 
-![](images/filename.png)
+![](images/horiseonwebpagescreenshot.png)
 
 ## Purpose
 A website that offers search engine optimization services and more.
