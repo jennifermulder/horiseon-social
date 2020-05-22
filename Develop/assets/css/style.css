@@ -65,17 +65,7 @@ body div p {
     background-position: center;
 }
 
-/* Content Class Style Start */
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
+/* Content Section Style Start */
 .content {
     width: 75%;
     display: inline-block;
@@ -91,6 +81,7 @@ body div p {
     color: #ffffff;
 }
 
+/* img float within article */
 .content-sections img {
     max-height: 200px;
     width: 30%;
@@ -102,16 +93,23 @@ body div p {
     font-size: 36px;
 }
 
+/* text float within article */
 article div {
     float: left;
-    width: 70%;
+    width: 65%;
     text-align: left;
 }
 
+.margin-left {
+    margin-left: 35px;
+}
 
+.margin-right {
+    margin-right: 35px;
+}
 /* Content Class Style End */
 
-/* Benefits Section */
+/* Benefits Section Style Start*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -138,6 +136,7 @@ article div {
     margin: 10px auto;
     max-width: 150px;
 }
+/* Benefits Section Style End */
 
 /* Footer Style */
 footer {
@@ -150,3 +149,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+/* Footer Style End */
