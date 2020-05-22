@@ -93,12 +93,23 @@ body div p {
 
 .content-sections img {
     max-height: 200px;
+    width: 30%;
+    float: left;
 }
 
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+article div {
+    float: left;
+    width: 70%;
+    text-align: left;
+}
+
+
+/* Content Class Style End */
 
 /* Benefits Section */
 .benefits {
@@ -128,14 +139,14 @@ body div p {
     max-width: 150px;
 }
 
-
-.footer {
+/* Footer Style */
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
